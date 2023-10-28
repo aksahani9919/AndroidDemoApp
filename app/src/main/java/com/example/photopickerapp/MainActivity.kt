@@ -47,5 +47,5 @@ fun GreetingPreview() {
 
 @Composable
 fun textView(){
-
+    val a = 40
 }
